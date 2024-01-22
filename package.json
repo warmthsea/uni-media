@@ -1,0 +1,14 @@
+{
+  "name": "media",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {},
+  "dependencies": {
+    "@dcloudio/uni-app": "^3.0.0-alpha-3060820221027003",
+    "flyio": "^0.6.14",
+    "vue": "^3.2.31"
+  },
+  "devDependencies": {
+    "swd-deploy": "^1.0.2"
+  }
+}
